@@ -1,2 +1,2 @@
 # user_web_app
-using hibernate ,JPA and Spring MVC
+This Project uses Hibernate , SpringMVC,JSP, HTML , CSS and MySQL Data-Base Server for Basic CRUD Operations. 
